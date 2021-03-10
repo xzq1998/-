@@ -37,4 +37,3 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 3）3月28日前整体调试。
 
 4) 3月30日前整理文档和过程文件
-
