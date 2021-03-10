@@ -28,7 +28,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 
 
-四、开发计划4月10前完成
+四、开发计划4月1前完成
 
 1）3月10前准备物料
 
@@ -36,4 +36,4 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 3）3月28日前整体调试。
 
-4) 3月30日前整理文档和过程文件
+4）3月30日前整理文档和过程文件
